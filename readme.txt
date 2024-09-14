@@ -7,3 +7,5 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 
 Changing text.
+
+This paragraph is for Bug Branch practise.
